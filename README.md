@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Dynamic Programming
 |  |
 | ------- |
