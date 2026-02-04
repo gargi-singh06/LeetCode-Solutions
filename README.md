@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2652-sum-multiples](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2652-sum-multiples) |
+| [3024-type-of-triangle](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3024-type-of-triangle](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Sorting
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
