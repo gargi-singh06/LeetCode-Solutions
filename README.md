@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0977-squares-of-a-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -62,5 +63,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3024-type-of-triangle](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
