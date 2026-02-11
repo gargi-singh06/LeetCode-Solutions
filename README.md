@@ -36,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 ## Array
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
