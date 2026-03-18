@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Simulation
 |  |
 | ------- |
@@ -105,4 +107,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 <!---LeetCode Topics End-->
