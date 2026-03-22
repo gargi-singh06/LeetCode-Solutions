@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1172-dinner-plate-stacks](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1172-dinner-plate-stacks) |
 ## String
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1172-dinner-plate-stacks](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1172-dinner-plate-stacks) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Monotonic Stack
@@ -140,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [1172-dinner-plate-stacks](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1172-dinner-plate-stacks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1172-dinner-plate-stacks](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1172-dinner-plate-stacks) |
 <!---LeetCode Topics End-->
