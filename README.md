@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0057-insert-interval](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0556-next-greater-element-iii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Matrix
