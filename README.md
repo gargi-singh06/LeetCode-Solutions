@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1108-defanging-an-ip-address](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2906-construct-product-matrix](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
