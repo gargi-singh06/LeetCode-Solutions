@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2235-add-two-integers](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2652-sum-multiples) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2574-left-and-right-sum-differences](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
