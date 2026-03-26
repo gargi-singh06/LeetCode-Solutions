@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1172-dinner-plate-stacks](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1172-dinner-plate-stacks) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
