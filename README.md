@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1622-fancy-sequence](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2235-add-two-integers](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1172-dinner-plate-stacks](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1172-dinner-plate-stacks) |
+| [1622-fancy-sequence](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
