@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
