@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
