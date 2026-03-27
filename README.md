@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1854-maximum-population-year](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1854-maximum-population-year) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1854-maximum-population-year](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1854-maximum-population-year) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1854-maximum-population-year](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1854-maximum-population-year) |
 ## Enumeration
 |  |
 | ------- |
