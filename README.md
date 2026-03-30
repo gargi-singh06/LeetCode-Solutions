@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2848-points-that-intersect-with-cars](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Math
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Dynamic Programming
 |  |
 | ------- |
