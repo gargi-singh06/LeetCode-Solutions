@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
