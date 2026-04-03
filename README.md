@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
+| [0844-backspace-string-compare](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1920-build-array-from-permutation](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
+| [0844-backspace-string-compare](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1172-dinner-plate-stacks](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1172-dinner-plate-stacks) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
