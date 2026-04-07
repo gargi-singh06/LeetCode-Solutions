@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2069-walking-robot-simulation-ii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Bit Manipulation
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1172-dinner-plate-stacks](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1172-dinner-plate-stacks) |
 | [1622-fancy-sequence](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
