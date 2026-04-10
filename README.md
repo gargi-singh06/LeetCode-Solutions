@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2573-find-the-string-with-lcp](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2848-points-that-intersect-with-cars) |
 | [2906-construct-product-matrix](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
