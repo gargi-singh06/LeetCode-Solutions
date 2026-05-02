@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0556-next-greater-element-iii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
+| [0788-rotated-digits](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0788-rotated-digits](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2573-find-the-string-with-lcp](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
