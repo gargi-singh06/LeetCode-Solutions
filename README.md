@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1854-maximum-population-year](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1854-maximum-population-year) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
