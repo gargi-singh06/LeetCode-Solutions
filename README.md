@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2126-destroying-asteroids](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2126-destroying-asteroids](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2751-robot-collisions](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2126-destroying-asteroids](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2573-find-the-string-with-lcp](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
