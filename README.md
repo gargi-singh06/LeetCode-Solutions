@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3612-process-string-with-special-operations-i](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
