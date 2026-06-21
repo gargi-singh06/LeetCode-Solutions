@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1840-maximum-building-height](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [1854-maximum-population-year](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1854-maximum-population-year) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2126-destroying-asteroids](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
