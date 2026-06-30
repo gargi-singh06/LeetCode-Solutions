@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1172-dinner-plate-stacks](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1172-dinner-plate-stacks) |
 | [1189-maximum-number-of-balloons](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
