@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1009-complement-of-base-10-integer](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Memoization
 |  |
