@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1172-dinner-plate-stacks](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1172-dinner-plate-stacks) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Greedy
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
