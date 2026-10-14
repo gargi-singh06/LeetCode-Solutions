@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0556-next-greater-element-iii](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0657-robot-return-to-origin](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1094-car-pooling) |
 | [1340-jump-game-v](https://github.com/gargi-singh06/LeetCode-Solutions/tree/master/1340-jump-game-v) |
